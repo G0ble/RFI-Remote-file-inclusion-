@@ -1,4 +1,4 @@
-# RFI-Remote-file-inclusion-
+# RFI-Remote-file-inclusion
 RFI lab
 
 As the name of this technique suggests, a remote file inclusion occurs when a webserver points at a file, directory, etc. that is not hosted on the webserver itself. We can therefore find ways for it to execute arbitrary code :).
